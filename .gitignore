@@ -1,0 +1,11 @@
+# Игнорировать результат выполнения
+unique_contributors.txt
+manual_list.txt
+result.txt
+
+# Игнорировать входной JSON-файл
+data/id.json
+
+# Node.js стандартное
+node_modules/
+.env
